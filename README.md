@@ -9,7 +9,7 @@
 
   ## Description
   
-  Text Editor built as a Progressive Web App (PWA), can be used both online and offline.
+  This is a text editor made in Javascript. It is a PWA which can be downloaded to be used offline.
   
   ## Screenshot
   
